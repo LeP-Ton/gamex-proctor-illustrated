@@ -4,7 +4,7 @@
 
 - 试玩：https://lep-ton.github.io/gamex-proctor-illustrated/
 - 权威源码：[LeP-Ton/gamex-proctor-simulator 的 codex/illustrated 分支](https://github.com/LeP-Ton/gamex-proctor-simulator/tree/codex/illustrated)。
-- 本次固定源码：`40616f584199eae1b49c44cbed0cbc7bdc30800b`。
+- 本次固定源码：`0f7d51878d695b6e425e7a8ebb7a45b0350b3db3`。
 - 运行时文件与上述源码一致；独立工作流、本文及发布来源说明属于部署适配。
 - 发布来源详见 [deployment.json](public/deployment.json)。源码与需求文档在原仓库维护，本仓库历史提交保留同步记录。
 
