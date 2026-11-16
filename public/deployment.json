@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "illustrated",
+  "sourceRepository": "LeP-Ton/gamex-proctor-simulator",
+  "sourceBranch": "codex/illustrated",
+  "sourceCommit": "40616f584199eae1b49c44cbed0cbc7bdc30800b",
+  "sourceTree": "dafa1e968dd903fb5975d89e71f5238efb7210ee",
+  "deploymentRepository": "LeP-Ton/gamex-proctor-illustrated",
+  "deploymentBranch": "codex/illustrated"
+}
